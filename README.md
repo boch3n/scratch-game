@@ -1,4 +1,4 @@
-# Scratch Game
+# Slot machine alghoritm
 
 ## Overview
 This is a simple scratch game implementation in Java. The game involves generating a matrix of symbols, checking for various winning combinations, and calculating rewards based on those combinations. The game also includes bonus symbols that can multiply or add to the reward.
